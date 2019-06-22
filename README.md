@@ -27,9 +27,9 @@ node server.js
 ### 安装
 
 ```
-sudo cnpm i -g json-server
 sudo npm install -g json-server
-
+启动3使用
+npm install json-server --save-dev
 ```
 
 ### 深化
