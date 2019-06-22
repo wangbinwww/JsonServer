@@ -37,3 +37,11 @@ npm install json-server --save-dev
 ```
 npm install json-server --save-dev
 ```
+
+### 技巧
+
+```
+按s后存储当前json
+  Saved snapshot to db-1561216385121.json
+
+```
