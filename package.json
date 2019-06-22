@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wangbinwww/JsonServer/issues"
   },
-  "homepage": "https://github.com/wangbinwww/JsonServer#readme"
+  "homepage": "https://github.com/wangbinwww/JsonServer#readme",
+  "devDependencies": {
+    "json-server": "^0.15.0"
+  }
 }
