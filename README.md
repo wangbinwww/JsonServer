@@ -1,4 +1,4 @@
-# vuexlesson1
+# Jsonserver 的一个例子
 
 ## Project setup
 
@@ -12,7 +12,7 @@ git push -u origin master
 git status
 ```
 
-### Compiles and hot-reloads for development
+### 启动程序
 
 ```
 npm run serve
