@@ -15,5 +15,5 @@ git status
 ### 启动程序
 
 ```
-npm run serve
+json-server --watch db.json
 ```
