@@ -1,6 +1,6 @@
 # Jsonserver 的一个例子
 
-## Project setup 1
+## Project setup
 
 ```
 git init
