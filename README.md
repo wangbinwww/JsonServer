@@ -17,7 +17,7 @@ git status
 ```
 json-server --watch db.json
 启动1
-json-server --watch db.json --port 27303 --host 0.0.0.0
+json-server --watch db.json --port 27303 --host 127.0.0.1
 启动2
 json-server main.js
 启动3
